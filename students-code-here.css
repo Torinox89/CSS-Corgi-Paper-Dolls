@@ -7,7 +7,23 @@
 
 .bandana {
 position:absolute;
-top: 5em;
+top: 11em;
 left: 7em;
+}
 
+
+.pawprint
+{
+    position: fixed;
+    top: 3em;
+    left:4em;
+}
+
+.luna {
+    position: absolute;
+
+}
+
+.top-hat {
+    z-index: +1
 }
